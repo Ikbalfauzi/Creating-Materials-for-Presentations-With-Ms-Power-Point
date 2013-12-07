@@ -1,33 +1,28 @@
-# classrecipe-template
+# Creating-Materials-for-Presentations-With-Ms-Power-Point
 ## elementary,social,classroom
 This document is made by [gitfab](http://gitfab.org)
 ---
 #Target
-Elementary School (6-12)
+Elementary School (6-9)
 
 
-![IMG_2918.JPG](https://raw.github.com/dadaa/classrecipe-template/master/gitfab/resources/IMG_2918.JPG)
+![IMG_2918.JPG](http://assalaam.files.wordpress.com/2007/11/guru2_belajar_ppt.jpg)
 ---
 #Scale
 1 classroom (~30)
 
 ---
 #Overall
-In this activity, students make a introduction movie about their own country, and presentation for others.
-
+This activity teaches students to make Ms. Powerpoint and present
 
 ---
 #Educational Effect
-* Search information and Remixing
-
-skill
-
+* 
 * Presentation Skill
-* deep Knowledge for own country
 
 ---
 #Item/Material/System
-* PC *Installed latest [Firefox](http://www.mozilla.org/en-US/firefox/)
-* Popcorn Maker
+* PC *Installed latest [MS. OFFICE]
+* Ms. Power Point
 * Screen for presentation
 ---
